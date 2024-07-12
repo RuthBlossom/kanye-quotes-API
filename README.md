@@ -2,6 +2,12 @@
 
 Kanye Says is a simple Python application built with Tkinter that fetches and displays random quotes from Kanye West using the Kanye REST API.
 
+![CapturKanye quote](https://github.com/user-attachments/assets/ce220c78-4c30-4c86-8c48-3546fb944f4c)
+
+![CaptureKayne quote 2](https://github.com/user-attachments/assets/6752a5c0-63dd-42a0-a3b3-41a8875a4cf1)
+
+
+
 ## Features
 - Fetches random Kanye West quotes from the Kanye REST API.
 - Displays the fetched quote on a canvas with a background image.
